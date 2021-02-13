@@ -1,0 +1,5 @@
+# mara
+-e git+https://github.com/mara/mara-pipelines.git@3.1.1#egg=mara-pipelines
+-e git+https://github.com/mara/mara-app.git@2.2.0#egg=mara-app
+
+Flask==1.1.1
